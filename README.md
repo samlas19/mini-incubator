@@ -12,7 +12,7 @@ The device combines:
 This project is currently at prototype and simulation level.
 
 ## Documentation
-📄 Full technical documentation is available here:
+📄 See the complete project description here:  
 - Mini_Incubator_Project.pdf
 
 ## Status
